@@ -1,0 +1,15 @@
+c:\users\альбина\source\repos\MP3-player project\MP3-player project\bin\Debug\MP3-player project.exe.config
+c:\users\альбина\source\repos\MP3-player project\MP3-player project\bin\Debug\MP3-player project.exe
+c:\users\альбина\source\repos\MP3-player project\MP3-player project\bin\Debug\MP3-player project.pdb
+c:\users\альбина\source\repos\MP3-player project\MP3-player project\bin\Debug\ColorSlider.dll
+c:\users\альбина\source\repos\MP3-player project\MP3-player project\bin\Debug\ColorSlider.pdb
+c:\users\альбина\source\repos\MP3-player project\MP3-player project\obj\Debug\MP3-player project.csprojResolveAssemblyReference.cache
+c:\users\альбина\source\repos\MP3-player project\MP3-player project\obj\Debug\MP3_player_project.Form1.resources
+c:\users\альбина\source\repos\MP3-player project\MP3-player project\obj\Debug\MP3_player_project.Properties.Resources.resources
+c:\users\альбина\source\repos\MP3-player project\MP3-player project\obj\Debug\MP3-player project.csproj.GenerateResource.Cache
+c:\users\альбина\source\repos\MP3-player project\MP3-player project\obj\Debug\MP3-player project.csproj.CoreCompileInputs.cache
+c:\users\альбина\source\repos\MP3-player project\MP3-player project\obj\Debug\MP3-player project.exe
+c:\users\альбина\source\repos\MP3-player project\MP3-player project\obj\Debug\MP3-player project.pdb
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\obj\Debug\MP3_player_project.Save.resources
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\Debug\bass.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\Debug\Bass.Net.dll

@@ -1,0 +1,23 @@
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\bass.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\plugins\bassalac.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\plugins\bassflac.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\plugins\bassopus.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\plugins\basswma.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\plugins\basswv.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\plugins\bass_aac.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\plugins\bass_ape.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\plugins\bass_mpc.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\plugins\bass_tta.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\MP3-player project.exe.config
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\MP3-player project.exe
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\MP3-player project.pdb
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\Bass.Net.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\ColorSlider.dll
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\bin\x64\Release\ColorSlider.pdb
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\obj\x64\Release\MP3-player project.csprojResolveAssemblyReference.cache
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\obj\x64\Release\MP3_player_project.Form1.resources
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\obj\x64\Release\MP3_player_project.Properties.Resources.resources
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\obj\x64\Release\MP3-player project.csproj.GenerateResource.Cache
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\obj\x64\Release\MP3-player project.csproj.CoreCompileInputs.cache
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\obj\x64\Release\MP3-player project.exe
+C:\Users\Альбина\source\repos\MP3-player project\MP3-player project\obj\x64\Release\MP3-player project.pdb
